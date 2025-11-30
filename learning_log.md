@@ -1,3 +1,6 @@
 ### 2025-11-30 20:59 - Java 线程池 ThreadPoolExecutor 参数调优
 > 代码审查 (Progress: 84%)
 
+### 2025-11-30 11:18 - 设计模式：单例模式的双重检查锁
+> 更新 Readme (Progress: 63%)
+
