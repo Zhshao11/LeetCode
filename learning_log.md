@@ -10,3 +10,6 @@
 ### 2025-12-01 22:54 - 复现 YOLOv8 目标检测 demo
 > 代码审查 (Progress: 34%)
 
+### 2025-12-01 23:01 - Python 调用 DeepSeek API 测试
+> 添加测试用例 (Progress: 11%)
+
