@@ -31,3 +31,6 @@
 ### 2025-12-06 13:37 - Vue3 组合式 API 练习
 > 更新 Readme (Progress: 93%)
 
+### 2025-12-06 20:26 - JVM 内存模型 (堆 vs 栈)
+> 更新 Readme (Progress: 34%)
+
