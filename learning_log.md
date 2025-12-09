@@ -58,3 +58,6 @@
 ### 2025-12-09 21:16 - 微服务 Nacos 配置中心
 > 修复 typo (Progress: 20%)
 
+### 2025-12-09 19:51 - Transformer 注意力机制笔记
+> Debug (Progress: 79%)
+
