@@ -61,3 +61,6 @@
 ### 2025-12-09 19:51 - Transformer 注意力机制笔记
 > Debug (Progress: 79%)
 
+### 2025-12-10 20:25 - Vue3 组合式 API 练习
+> 修复 typo (Progress: 95%)
+
