@@ -70,3 +70,6 @@
 ### 2025-12-11 21:47 - 微服务 Nacos 配置中心
 > 修复 typo (Progress: 35%)
 
+### 2025-12-12 23:24 - Spring Boot 自动装配原理
+> 更新 Readme (Progress: 80%)
+
