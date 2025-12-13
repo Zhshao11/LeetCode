@@ -79,3 +79,6 @@
 ### 2025-12-12 19:49 - 复现 YOLOv8 目标检测 demo
 > 更新 Readme (Progress: 10%)
 
+### 2025-12-13 14:25 - 深入理解 HashMap 源码与扩容
+> 修复 typo (Progress: 22%)
+
