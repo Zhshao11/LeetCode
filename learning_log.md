@@ -124,3 +124,6 @@
 ### 2025-12-19 22:57 - Java 线程池 ThreadPoolExecutor 参数调优
 > 补充笔记 (Progress: 19%)
 
+### 2025-12-19 23:08 - 微服务 Nacos 配置中心
+> 添加测试用例 (Progress: 24%)
+
