@@ -121,3 +121,6 @@
 ### 2025-12-18 22:04 - LeetCode: 动态规划爬楼梯
 > 代码审查 (Progress: 31%)
 
+### 2025-12-19 22:57 - Java 线程池 ThreadPoolExecutor 参数调优
+> 补充笔记 (Progress: 19%)
+
