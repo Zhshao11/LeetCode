@@ -130,3 +130,6 @@
 ### 2025-12-20 21:54 - LeetCode: 动态规划爬楼梯
 > 重构代码 (Progress: 97%)
 
+### 2025-12-20 14:29 - Java 线程池 ThreadPoolExecutor 参数调优
+> 修复 typo (Progress: 16%)
+
