@@ -193,3 +193,6 @@
 ### 2025-12-29 20:55 - 复现 YOLOv8 目标检测 demo
 > 修复 typo (Progress: 62%)
 
+### 2025-12-30 07:52 - Java 线程池 ThreadPoolExecutor 参数调优
+> Debug (Progress: 37%)
+
