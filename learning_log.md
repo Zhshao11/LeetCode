@@ -199,3 +199,6 @@
 ### 2025-12-31 22:17 - Java 线程池 ThreadPoolExecutor 参数调优
 > 补充笔记 (Progress: 15%)
 
+### 2025-12-31 23:28 - 深入理解 HashMap 源码与扩容
+> Debug (Progress: 33%)
+
