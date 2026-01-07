@@ -226,3 +226,6 @@
 ### 2026-01-06 20:02 - Python 调用 DeepSeek API 测试
 > 优化算法复杂度 (Progress: 40%)
 
+### 2026-01-07 20:30 - Docker 容器化部署 Spring 应用
+> 补充笔记 (Progress: 74%)
+
