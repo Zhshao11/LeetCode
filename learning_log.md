@@ -238,3 +238,6 @@
 ### 2026-01-14 21:24 - Python 调用 DeepSeek API 测试
 > 优化算法复杂度 (Progress: 69%)
 
+### 2026-01-14 23:07 - Transformer 注意力机制笔记
+> 添加测试用例 (Progress: 20%)
+
