@@ -268,3 +268,6 @@
 ### 2026-01-20 20:46 - Python 调用 DeepSeek API 测试
 > 添加测试用例 (Progress: 100%)
 
+### 2026-01-20 08:55 - LeetCode: 动态规划爬楼梯
+> 代码审查 (Progress: 59%)
+
