@@ -274,3 +274,6 @@
 ### 2026-01-21 23:52 - 复现 YOLOv8 目标检测 demo
 > 优化算法复杂度 (Progress: 64%)
 
+### 2026-01-22 07:24 - Java 线程池 ThreadPoolExecutor 参数调优
+> 代码审查 (Progress: 29%)
+
