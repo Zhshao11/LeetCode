@@ -280,3 +280,6 @@
 ### 2026-01-22 21:41 - Java 线程池 ThreadPoolExecutor 参数调优
 > Debug (Progress: 24%)
 
+### 2026-01-22 20:48 - B+树索引结构分析
+> 添加测试用例 (Progress: 52%)
+
