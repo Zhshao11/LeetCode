@@ -310,3 +310,6 @@
 ### 2026-01-27 19:26 - TCP 三次握手过程详解
 > 重构代码 (Progress: 90%)
 
+### 2026-01-28 21:15 - Java 线程池 ThreadPoolExecutor 参数调优
+> 补充笔记 (Progress: 80%)
+
