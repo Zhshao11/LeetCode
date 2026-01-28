@@ -313,3 +313,6 @@
 ### 2026-01-28 21:15 - Java 线程池 ThreadPoolExecutor 参数调优
 > 补充笔记 (Progress: 80%)
 
+### 2026-01-28 22:12 - Docker 容器化部署 Spring 应用
+> Debug (Progress: 37%)
+
