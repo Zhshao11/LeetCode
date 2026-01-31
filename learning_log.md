@@ -325,3 +325,6 @@
 ### 2026-01-29 19:50 - TCP 三次握手过程详解
 > 更新 Readme (Progress: 73%)
 
+### 2026-01-31 20:49 - Python 调用 DeepSeek API 测试
+> 重构代码 (Progress: 79%)
+
