@@ -337,3 +337,6 @@
 ### 2026-01-31 23:17 - Spring Boot 自动装配原理
 > 补充笔记 (Progress: 26%)
 
+### 2026-02-01 21:36 - Python 调用 DeepSeek API 测试
+> 添加测试用例 (Progress: 35%)
+
