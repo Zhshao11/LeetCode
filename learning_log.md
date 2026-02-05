@@ -358,3 +358,6 @@
 ### 2026-02-03 20:26 - LeetCode: 动态规划爬楼梯
 > 修复 typo (Progress: 61%)
 
+### 2026-02-05 20:31 - 复现 YOLOv8 目标检测 demo
+> Debug (Progress: 44%)
+
