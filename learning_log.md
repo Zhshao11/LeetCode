@@ -367,3 +367,6 @@
 ### 2026-02-05 21:57 - MyBatis 动态 SQL 调试
 > 修复 typo (Progress: 58%)
 
+### 2026-02-06 21:55 - Transformer 注意力机制笔记
+> 补充笔记 (Progress: 46%)
+
