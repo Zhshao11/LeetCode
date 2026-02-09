@@ -10,4 +10,4 @@
     - 所有节点指向根节点，路径压缩中，权重是累乘的
   - 合并节点：
     - 合并两个结合，将两个节点的根节点挂载到一起
-    - $weight[rootA] = \frac{1}{weight[a]} \times k \times weight[b]$、$weight[b] = b / rootB$
+    - $weight[rootA] = \frac{1}{weight[a]} \times k \times weight[b] 、 weight[b] = b / rootB $
