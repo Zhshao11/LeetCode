@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "派聪明技术排查.md",
+                "file": "codetop_top100.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "派聪明技术排查"
+              "title": "codetop_top100"
             }
           }
         ]
@@ -53,13 +53,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "派聪明技术排查.md",
+                "file": "codetop_top100.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "派聪明技术排查 的大纲"
+              "title": "codetop_top100 的大纲"
             }
           },
           {
@@ -194,10 +194,11 @@
   },
   "active": "d9a04fb1930fe9c5",
   "lastOpenFiles": [
-    "面试复盘.md",
-    "派聪明技术排查.md",
-    "learning_log.md",
+    "基础算法精讲.md",
     "codetop_top100.md",
-    "基础算法精讲.md"
+    "派聪明技术排查.md",
+    "从0开始细致回顾派聪明.md",
+    "面试复盘.md",
+    "learning_log.md"
   ]
 }
