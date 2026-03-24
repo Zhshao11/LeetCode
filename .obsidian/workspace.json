@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础算法精讲.md",
+                "file": "从0开始细致回顾派聪明.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基础算法精讲"
+              "title": "从0开始细致回顾派聪明"
             }
           }
         ]
@@ -53,13 +53,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "基础算法精讲.md",
+                "file": "从0开始细致回顾派聪明.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "基础算法精讲 的大纲"
+              "title": "从0开始细致回顾派聪明 的大纲"
             }
           },
           {
@@ -192,9 +192,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d9a04fb1930fe9c5",
+  "active": "967e716d5736a30b",
   "lastOpenFiles": [
+    "红外配电去重",
     "codetop_top100.md",
+    "用户列表查询接口.png",
+    "img/获取用户信息接口.png",
+    "img/用户登录接口.png",
+    "img/用户注册接口.png",
+    "img/创建组织标签(管理员).png",
+    "img",
     "基础算法精讲.md",
     "leetcode100.md",
     "派聪明技术排查.md",
