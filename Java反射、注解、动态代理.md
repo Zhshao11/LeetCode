@@ -7,17 +7,18 @@
 	- 2.Class提供的forName方法:Class.forName("全类名")
 	- 3.Object提供的getClass()方法，需要使用对象.getClass()
 - 2.获取类的构造器：Constructor对象
-	- 如何获取Constructor对象？
-		- 1.getConstructor方法
-			- 获取某个构造器，后面跟构造方法的参数的类型（只能获取public修饰的）
-		- 2.getConstructors方法
-			- 获取全部构造器（只能获取public修饰的）
-		- 3.getDeclaredConstructor方法
-			- 获取某个构造器，后面跟构造方法的参数的类型（没有修饰符限制）
-		- 4.getDeclaredConstructors方法
-			- 获取全部构造器（没有修饰符限制）
-	- Constructor提供的方法
-		- 1.T newInstance(Object... initargs)调用构造器对象表示的构造器
-		- 2.setAccessible禁止检查访问控制(暴力反射)
+  - 如何获取Constructor对象？
+    - Class中获取Constructor的方法
+        - 1.getConstructor方法
+            - 获取某个构造器，后面跟构造方法的参数的类型（只能获取public修饰的）
+        - 2.getConstructors方法
+            - 获取全部构造器（只能获取public修饰的）
+        - 3.getDeclaredConstructor方法
+            - 获取某个构造器，后面跟构造方法的参数的类型（没有修饰符限制）
+        - 4.getDeclaredConstructors方法
+            - 获取全部构造器（没有修饰符限制）
+    - Constructor提供的方法
+        - 1.T newInstance(Object... initargs)调用构造器对象表示的构造器
+        - 2.setAccessibl 设置为true 禁止检查访问控制(暴力反射)
 - 3.获取类的成员变量：Field对象
 - 4.获取类的方法：Method对象
